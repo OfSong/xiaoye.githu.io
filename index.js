@@ -1,7 +1,7 @@
 const questions = [
     {
-        question: "问题1？",
-        answer: "问题1的答案。"
+        question: "第一个问题",
+        answer: "第一个问题的答案"
     },
     {
         question: "问题2？",
@@ -31,6 +31,11 @@ const questions = [
         question: "问题888888888888888？",
         answer: "问题888888888888888888的答案。"
     },
+    {
+        question: "第9个问题",
+        answer: "第九个问题的答案"
+    },
+        
     // 添加更多的题目和答案
 ];
 
