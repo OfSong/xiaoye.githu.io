@@ -1,4 +1,5 @@
 const questions = [
+    //----------------下方添加-------------------
     {
         question: "问题1？",
         answer: "问题1的答案。"
@@ -31,7 +32,8 @@ const questions = [
         question: "问题888888888888888？",
         answer: "问题888888888888888888的答案。"
     },
-    // 添加更多的题目和答案
+
+    // 在上方添加更多的题目和答案
 ];
 
 export default questions;
