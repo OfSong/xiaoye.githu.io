@@ -6,6 +6,10 @@ const questions =
             answer: "昨天"
         },
         {
+            question:"题目",
+            answer:"答案",
+        },
+        {
             question: "吸血鬼抓住了一个人,并不马上吃他,那只吸血鬼要干什么",
             answer: "先看看那个人的血型再说"
         },
